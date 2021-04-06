@@ -1,0 +1,64 @@
+private void getPlacesFromAssetFile()
+    {
+        JSONObject jsonObject = null;
+        try {
+            String data = readFromFile(FILE_NAME);
+
+            if(data.isEmpty()) {
+                data = JsonDataFromAsset("dutch_cities.json", "UTF-8");
+
+                jsonObject = new JSONObject(data);
+                JSONArray jsonArray = jsonObject.getJSONArray("places");
+
+                for (int i = 0; i < jsonArray.length(); i++) {
+                    JSONObject cityData = jsonArray.getJSONObject(i);
+                    String placeName = cityData.getString("name");
+                    String placeTemp = cityData.getString("temp");
+                    Place place = new Place(placeName, placeTemp);
+                    places.getPlaces().add(place);
+                }
+
+                boolean portrait = getResources().getConfiguration().orientation == Configuration.ORIENTATION_PORTRAIT;
+                OverviewFragment overviewFragment;
+                if(portrait) {
+                    overviewFragment = (OverviewFragment) getSupportFragmentManager().findFragmentByTag("overview");
+                } else {
+                    overviewFragment = (OverviewFragment) getSupportFragmentManager().findFragmentById(R.id.overviewFragment);
+                }
+                overviewFragment.updateWeatherDataFromAllPlaces(places);
+
+                /*new WeatherDataTask(this, new WeatherDataTask.AsyncResponse(){
+                    @Override
+                    public void processFinish(List<Place> result) {
+                        Collections.sort(places.getPlaces(), (o1, o2) -> o1.getName().compareTo(o2.getName()));
+                        places.getPlaces().clear();
+                        places.setPlaces(result);
+                        onItemsUpdate(places);
+                    }
+                }).execute(places.getPlaces());*/
+
+            } else {
+                jsonObject = new JSONObject(data);
+                JSONArray jsonArray = jsonObject.getJSONArray("places");
+
+                for (int i = 0; i < jsonArray.length(); i++) {
+                    JSONObject cityData = jsonArray.getJSONObject(i);
+                    String placeName = cityData.getString("name");
+                    String placeTemp = cityData.getString("temp");
+                    Place place = new Place(placeName, placeTemp);
+                    places.getPlaces().add(place);
+                }
+                sortPlaces();
+            }
+        } catch (JSONException | IOException e) {
+            e.printStackTrace();
+        }
+
+        /*Gson gson = new GsonBuilder().setPrettyPrinting().create();
+        String data = gson.toJson(places.getCities());
+        try {
+            writeToFile("dutch_cities.json", data);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }*/
+    }

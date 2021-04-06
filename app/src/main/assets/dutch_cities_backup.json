@@ -1,0 +1,1600 @@
+{
+  "cities": [
+    {
+      "name": "Aalburg",
+      "temp": "1.95"
+    },
+    {
+      "name": "Abbenbroek",
+      "temp": "3.49"
+    },
+    {
+      "name": "Alkmaar",
+      "temp": "3.59"
+    },
+    {
+      "name": "Almelo",
+      "temp": "3.28"
+    },
+    {
+      "name": "Almere Stad",
+      "temp": "2.26"
+    },
+    {
+      "name": "Alphen",
+      "temp": "1.31"
+    },
+    {
+      "name": "Alphen aan den Rijn",
+      "temp": "3.25"
+    },
+    {
+      "name": "Amersfoort",
+      "temp": "3.23"
+    },
+    {
+      "name": "Amstelveen",
+      "temp": "2.94"
+    },
+    {
+      "name": "Amsterdam",
+      "temp": "3.41"
+    },
+    {
+      "name": "Anna Paulowna",
+      "temp": "3.75"
+    },
+    {
+      "name": "Apeldoorn",
+      "temp": "1.67"
+    },
+    {
+      "name": "Appingedam",
+      "temp": "0.76"
+    },
+    {
+      "name": "Asperen",
+      "temp": "2.28"
+    },
+    {
+      "name": "Assen",
+      "temp": "1.09"
+    },
+    {
+      "name": "Asten",
+      "temp": "2.41"
+    },
+    {
+      "name": "Baarn",
+      "temp": "3.01"
+    },
+    {
+      "name": "Balk",
+      "temp": "1.04"
+    },
+    {
+      "name": "Bedum",
+      "temp": "2.61"
+    },
+    {
+      "name": "Beek",
+      "temp": "1.42"
+    },
+    {
+      "name": "Beek en Donk",
+      "temp": "0.59"
+    },
+    {
+      "name": "Beetsterzwaag",
+      "temp": "1.06"
+    },
+    {
+      "name": "Beilen",
+      "temp": "1.11"
+    },
+    {
+      "name": "Bemmel",
+      "temp": "2.4"
+    },
+    {
+      "name": "Beneden-Leeuwen",
+      "temp": "1.24"
+    },
+    {
+      "name": "Bergambacht",
+      "temp": "3.15"
+    },
+    {
+      "name": "Bergeijk",
+      "temp": "0.82"
+    },
+    {
+      "name": "Bergen",
+      "temp": "2.78"
+    },
+    {
+      "name": "Bergen op Zoom",
+      "temp": "2.89"
+    },
+    {
+      "name": "Bergschenhoek",
+      "temp": "1.3"
+    },
+    {
+      "name": "Best",
+      "temp": "2.35"
+    },
+    {
+      "name": "Beuningen",
+      "temp": "1.84"
+    },
+    {
+      "name": "Bilthoven",
+      "temp": "2.95"
+    },
+    {
+      "name": "Bladel",
+      "temp": "0.96"
+    },
+    {
+      "name": "Blaricum",
+      "temp": "0.93"
+    },
+    {
+      "name": "Bodegraven",
+      "temp": "1.47"
+    },
+    {
+      "name": "Boekel",
+      "temp": "3.16"
+    },
+    {
+      "name": "Borculo",
+      "temp": "0.99"
+    },
+    {
+      "name": "Boskoop",
+      "temp": "2.96"
+    },
+    {
+      "name": "Bovenkarspel",
+      "temp": "3.54"
+    },
+    {
+      "name": "Boxmeer",
+      "temp": "3.37"
+    },
+    {
+      "name": "Breda",
+      "temp": "1.84"
+    },
+    {
+      "name": "Brummen",
+      "temp": "1.52"
+    },
+    {
+      "name": "Budel",
+      "temp": "0.7"
+    },
+    {
+      "name": "Buitenpost",
+      "temp": "2.43"
+    },
+    {
+      "name": "Burgum",
+      "temp": "2.86"
+    },
+    {
+      "name": "Capelle aan den IJssel",
+      "temp": "2.53"
+    },
+    {
+      "name": "Castricum",
+      "temp": "2.94"
+    },
+    {
+      "name": "Coevorden",
+      "temp": "0.74"
+    },
+    {
+      "name": "Culemborg",
+      "temp": "2.78"
+    },
+    {
+      "name": "Damwâld",
+      "temp": "3.29"
+    },
+    {
+      "name": "De Goorn",
+      "temp": "2.23"
+    },
+    {
+      "name": "De Rijp",
+      "temp": "0.67"
+    },
+    {
+      "name": "De Steeg",
+      "temp": "3.36"
+    },
+    {
+      "name": "Delft",
+      "temp": "3.3"
+    },
+    {
+      "name": "Delfzijl",
+      "temp": "1.44"
+    },
+    {
+      "name": "Den Burg",
+      "temp": "4.1"
+    },
+    {
+      "name": "Den Helder",
+      "temp": "1.67"
+    },
+    {
+      "name": "Deurne",
+      "temp": "1.1"
+    },
+    {
+      "name": "Didam",
+      "temp": "4.1"
+    },
+    {
+      "name": "Diever",
+      "temp": "1.45"
+    },
+    {
+      "name": "Doesburg",
+      "temp": "3.49"
+    },
+    {
+      "name": "Dokkum",
+      "temp": "2.17"
+    },
+    {
+      "name": "Domburg",
+      "temp": "1.47"
+    },
+    {
+      "name": "Dongen",
+      "temp": "2.25"
+    },
+    {
+      "name": "Doorn",
+      "temp": "2.87"
+    },
+    {
+      "name": "Dordrecht",
+      "temp": "0.99"
+    },
+    {
+      "name": "Drachten",
+      "temp": "2.39"
+    },
+    {
+      "name": "Echt",
+      "temp": "2.13"
+    },
+    {
+      "name": "Ede",
+      "temp": "2.08"
+    },
+    {
+      "name": "Eemnes",
+      "temp": "0.86"
+    },
+    {
+      "name": "Eersel",
+      "temp": "3.26"
+    },
+    {
+      "name": "Eijsden",
+      "temp": "0.59"
+    },
+    {
+      "name": "Elburg",
+      "temp": "3.44"
+    },
+    {
+      "name": "Elst",
+      "temp": "1.73"
+    },
+    {
+      "name": "Emmeloord",
+      "temp": "0.84"
+    },
+    {
+      "name": "Emmen",
+      "temp": "2.39"
+    },
+    {
+      "name": "Enschede",
+      "temp": "0.64"
+    },
+    {
+      "name": "Epe",
+      "temp": "3"
+    },
+    {
+      "name": "Ermelo",
+      "temp": "1.11"
+    },
+    {
+      "name": "Exloo",
+      "temp": "3.19"
+    },
+    {
+      "name": "Ferwert",
+      "temp": "2.68"
+    },
+    {
+      "name": "Flushing",
+      "temp": "3.73"
+    },
+    {
+      "name": "Franeker",
+      "temp": "2.68"
+    },
+    {
+      "name": "Geffen",
+      "temp": "1.76"
+    },
+    {
+      "name": "Geldrop",
+      "temp": "1.06"
+    },
+    {
+      "name": "Gemeente \u0027s-Hertogenbosch",
+      "temp": "3.31"
+    },
+    {
+      "name": "Gemeente Aalsmeer",
+      "temp": "1.93"
+    },
+    {
+      "name": "Gemeente Aalten",
+      "temp": "2.37"
+    },
+    {
+      "name": "Gemeente Alblasserdam",
+      "temp": "1.85"
+    },
+    {
+      "name": "Gemeente Arnhem",
+      "temp": "1.61"
+    },
+    {
+      "name": "Gemeente Baarle-Nassau",
+      "temp": "1.94"
+    },
+    {
+      "name": "Gemeente Barendrecht",
+      "temp": "2.41"
+    },
+    {
+      "name": "Gemeente Barneveld",
+      "temp": "2.77"
+    },
+    {
+      "name": "Gemeente Berg en Dal",
+      "temp": "1.08"
+    },
+    {
+      "name": "Gemeente Beverwijk",
+      "temp": "3.18"
+    },
+    {
+      "name": "Gemeente Borne",
+      "temp": "0.94"
+    },
+    {
+      "name": "Gemeente Boxtel",
+      "temp": "1.33"
+    },
+    {
+      "name": "Gemeente Brielle",
+      "temp": "3.92"
+    },
+    {
+      "name": "Gemeente Brunssum",
+      "temp": "0.51"
+    },
+    {
+      "name": "Gemeente Bunschoten",
+      "temp": "3.37"
+    },
+    {
+      "name": "Gemeente Bussum",
+      "temp": "3.05"
+    },
+    {
+      "name": "Gemeente Cuijk",
+      "temp": "1.07"
+    },
+    {
+      "name": "Gemeente Dalfsen",
+      "temp": "2.6"
+    },
+    {
+      "name": "Gemeente Deventer",
+      "temp": "2.05"
+    },
+    {
+      "name": "Gemeente Diemen",
+      "temp": "3.32"
+    },
+    {
+      "name": "Gemeente Doetinchem",
+      "temp": "1.67"
+    },
+    {
+      "name": "Gemeente Dronten",
+      "temp": "4.2"
+    },
+    {
+      "name": "Gemeente Druten",
+      "temp": "1.3"
+    },
+    {
+      "name": "Gemeente Duiven",
+      "temp": "2.28"
+    },
+    {
+      "name": "Gemeente Eindhoven",
+      "temp": "0.97"
+    },
+    {
+      "name": "Gemeente Enkhuizen",
+      "temp": "3.55"
+    },
+    {
+      "name": "Gemeente Etten-Leur",
+      "temp": "2.47"
+    },
+    {
+      "name": "Gemeente Geldermalsen",
+      "temp": "2.45"
+    },
+    {
+      "name": "Gemeente Goirle",
+      "temp": "3.09"
+    },
+    {
+      "name": "Gemeente Haarlem",
+      "temp": "2.06"
+    },
+    {
+      "name": "Gemeente Harderwijk",
+      "temp": "3.47"
+    },
+    {
+      "name": "Gemeente Heemskerk",
+      "temp": "2.77"
+    },
+    {
+      "name": "Gemeente Heerenveen",
+      "temp": "3.46"
+    },
+    {
+      "name": "Gemeente Heiloo",
+      "temp": "2.95"
+    },
+    {
+      "name": "Gemeente Hellevoetsluis",
+      "temp": "3.89"
+    },
+    {
+      "name": "Gemeente Hendrik-Ido-Ambacht",
+      "temp": "2.4"
+    },
+    {
+      "name": "Gemeente Hillegom",
+      "temp": "0.71"
+    },
+    {
+      "name": "Gemeente Hoogeveen",
+      "temp": "3.5"
+    },
+    {
+      "name": "Gemeente Hoorn",
+      "temp": "3.22"
+    },
+    {
+      "name": "Gemeente Houten",
+      "temp": "2.78"
+    },
+    {
+      "name": "Gemeente IJsselstein",
+      "temp": "2.53"
+    },
+    {
+      "name": "Gemeente Leiderdorp",
+      "temp": "3.58"
+    },
+    {
+      "name": "Gemeente Naarden",
+      "temp": "0.88"
+    },
+    {
+      "name": "Gemeente Nederweert",
+      "temp": "3.25"
+    },
+    {
+      "name": "Gemeente Nijkerk",
+      "temp": "1.8"
+    },
+    {
+      "name": "Gemeente Nijmegen",
+      "temp": "3.01"
+    },
+    {
+      "name": "Gemeente Noordwijkerhout",
+      "temp": "3.61"
+    },
+    {
+      "name": "Gemeente Nunspeet",
+      "temp": "3.26"
+    },
+    {
+      "name": "Gemeente Oegstgeest",
+      "temp": "3.42"
+    },
+    {
+      "name": "Gemeente Oldenzaal",
+      "temp": "2.19"
+    },
+    {
+      "name": "Gemeente Ommen",
+      "temp": "0.99"
+    },
+    {
+      "name": "Gemeente Oosterhout",
+      "temp": "0.59"
+    },
+    {
+      "name": "Gemeente Oss",
+      "temp": "1.63"
+    },
+    {
+      "name": "Gemeente Putten",
+      "temp": "2.96"
+    },
+    {
+      "name": "Gemeente Rhenen",
+      "temp": "1.27"
+    },
+    {
+      "name": "Gemeente Roermond",
+      "temp": "2.78"
+    },
+    {
+      "name": "Gemeente Schiedam",
+      "temp": "2.97"
+    },
+    {
+      "name": "Gemeente Sint-Oedenrode",
+      "temp": "1.2"
+    },
+    {
+      "name": "Gemeente Sliedrecht",
+      "temp": "2.04"
+    },
+    {
+      "name": "Gemeente Someren",
+      "temp": "1.11"
+    },
+    {
+      "name": "Gemeente Stadskanaal",
+      "temp": "1.04"
+    },
+    {
+      "name": "Gemeente Terneuzen",
+      "temp": "2.56"
+    },
+    {
+      "name": "Gemeente Tiel",
+      "temp": "2.78"
+    },
+    {
+      "name": "Gemeente Tilburg",
+      "temp": "2.02"
+    },
+    {
+      "name": "Gemeente Tubbergen",
+      "temp": "0.96"
+    },
+    {
+      "name": "Gemeente Uden",
+      "temp": "0.9"
+    },
+    {
+      "name": "Gemeente Veenendaal",
+      "temp": "2.78"
+    },
+    {
+      "name": "Gemeente Veghel",
+      "temp": "0.98"
+    },
+    {
+      "name": "Gemeente Venlo",
+      "temp": "1.29"
+    },
+    {
+      "name": "Gemeente Venray",
+      "temp": "1.16"
+    },
+    {
+      "name": "Gemeente Voorschoten",
+      "temp": "1.98"
+    },
+    {
+      "name": "Gemeente Vught",
+      "temp": "3.2"
+    },
+    {
+      "name": "Gemeente Waalwijk",
+      "temp": "2.06"
+    },
+    {
+      "name": "Gemeente Waddinxveen",
+      "temp": "2.95"
+    },
+    {
+      "name": "Gemeente Wageningen",
+      "temp": "3.2"
+    },
+    {
+      "name": "Gemeente Wassenaar",
+      "temp": "2.15"
+    },
+    {
+      "name": "Gemeente Werkendam",
+      "temp": "1.29"
+    },
+    {
+      "name": "Gemeente Wierden",
+      "temp": "2.15"
+    },
+    {
+      "name": "Gemeente Wijchen",
+      "temp": "2.93"
+    },
+    {
+      "name": "Gemeente Woerden",
+      "temp": "1.58"
+    },
+    {
+      "name": "Gemeente Zaltbommel",
+      "temp": "3.41"
+    },
+    {
+      "name": "Gemeente Zeewolde",
+      "temp": "2.04"
+    },
+    {
+      "name": "Gemeente Zevenaar",
+      "temp": "1.67"
+    },
+    {
+      "name": "Gemeente Zundert",
+      "temp": "2.24"
+    },
+    {
+      "name": "Gemeente Zwolle",
+      "temp": "2.87"
+    },
+    {
+      "name": "Gemert",
+      "temp": "1.04"
+    },
+    {
+      "name": "Gendringen",
+      "temp": "1.09"
+    },
+    {
+      "name": "Gennep",
+      "temp": "1.08"
+    },
+    {
+      "name": "Gieten",
+      "temp": "1.85"
+    },
+    {
+      "name": "Goes",
+      "temp": "3.88"
+    },
+    {
+      "name": "Goor",
+      "temp": "0.95"
+    },
+    {
+      "name": "Gorinchem",
+      "temp": "2.14"
+    },
+    {
+      "name": "Gouda",
+      "temp": "3.05"
+    },
+    {
+      "name": "Grave",
+      "temp": "1.52"
+    },
+    {
+      "name": "Grootegast",
+      "temp": "1.51"
+    },
+    {
+      "name": "Grou",
+      "temp": "2.63"
+    },
+    {
+      "name": "Haaksbergen",
+      "temp": "1.13"
+    },
+    {
+      "name": "Haaren",
+      "temp": "2.02"
+    },
+    {
+      "name": "Halfweg",
+      "temp": "3.33"
+    },
+    {
+      "name": "Hardenberg",
+      "temp": "2.22"
+    },
+    {
+      "name": "Hardinxveld-Giessendam",
+      "temp": "1.09"
+    },
+    {
+      "name": "Haren",
+      "temp": "0.64"
+    },
+    {
+      "name": "Harlingen",
+      "temp": "2.67"
+    },
+    {
+      "name": "Hasselt",
+      "temp": "1.89"
+    },
+    {
+      "name": "Hattem",
+      "temp": "3.09"
+    },
+    {
+      "name": "Hazerswoude-Rijndijk",
+      "temp": "2.93"
+    },
+    {
+      "name": "Heemstede",
+      "temp": "3.18"
+    },
+    {
+      "name": "Heerde",
+      "temp": "2.98"
+    },
+    {
+      "name": "Heerhugowaard",
+      "temp": "3.37"
+    },
+    {
+      "name": "Heerlen",
+      "temp": "1.62"
+    },
+    {
+      "name": "Heesch",
+      "temp": "0.47"
+    },
+    {
+      "name": "Heeze",
+      "temp": "0.97"
+    },
+    {
+      "name": "Heinkenszand",
+      "temp": "3.73"
+    },
+    {
+      "name": "Helmond",
+      "temp": "1.09"
+    },
+    {
+      "name": "Hengelo",
+      "temp": "1.11"
+    },
+    {
+      "name": "Hengelo",
+      "temp": "0.94"
+    },
+    {
+      "name": "Heythuysen",
+      "temp": "1.7"
+    },
+    {
+      "name": "Hilvarenbeek",
+      "temp": "0.94"
+    },
+    {
+      "name": "Hilversum",
+      "temp": "3.22"
+    },
+    {
+      "name": "Hoofddorp",
+      "temp": "3.05"
+    },
+    {
+      "name": "Hoogerheide",
+      "temp": "2.21"
+    },
+    {
+      "name": "Hoogezand",
+      "temp": "1.41"
+    },
+    {
+      "name": "Hoogkarspel",
+      "temp": "3.47"
+    },
+    {
+      "name": "Hoornaar",
+      "temp": "2.21"
+    },
+    {
+      "name": "Horst",
+      "temp": "3.15"
+    },
+    {
+      "name": "Huizen",
+      "temp": "3.36"
+    },
+    {
+      "name": "Hulst",
+      "temp": "2.61"
+    },
+    {
+      "name": "IJmuiden",
+      "temp": "3.47"
+    },
+    {
+      "name": "Joure",
+      "temp": "2.19"
+    },
+    {
+      "name": "Kaatsheuvel",
+      "temp": "3.32"
+    },
+    {
+      "name": "Kampen",
+      "temp": "3.89"
+    },
+    {
+      "name": "Kapelle",
+      "temp": "2.91"
+    },
+    {
+      "name": "Katwijk",
+      "temp": "3.34"
+    },
+    {
+      "name": "Kerkdriel",
+      "temp": "2.08"
+    },
+    {
+      "name": "Kerkrade",
+      "temp": "0.56"
+    },
+    {
+      "name": "Kollum",
+      "temp": "1.84"
+    },
+    {
+      "name": "Krimpen aan den IJssel",
+      "temp": "2.54"
+    },
+    {
+      "name": "Kruiningen",
+      "temp": "0.49"
+    },
+    {
+      "name": "Landgraaf",
+      "temp": "3.73"
+    },
+    {
+      "name": "Landsmeer",
+      "temp": "1.23"
+    },
+    {
+      "name": "Laren",
+      "temp": "3.42"
+    },
+    {
+      "name": "Leek",
+      "temp": "3.32"
+    },
+    {
+      "name": "Leens",
+      "temp": "1.48"
+    },
+    {
+      "name": "Leerdam",
+      "temp": "2.28"
+    },
+    {
+      "name": "Leeuwarden",
+      "temp": "2.56"
+    },
+    {
+      "name": "Leiden",
+      "temp": "3.3"
+    },
+    {
+      "name": "Leidschendam",
+      "temp": "3.15"
+    },
+    {
+      "name": "Lekkerkerk",
+      "temp": "2.5"
+    },
+    {
+      "name": "Lelystad",
+      "temp": "3.88"
+    },
+    {
+      "name": "Lemmer",
+      "temp": "2.78"
+    },
+    {
+      "name": "Leusden",
+      "temp": "2.03"
+    },
+    {
+      "name": "Lichtenvoorde",
+      "temp": "1.31"
+    },
+    {
+      "name": "Lisse",
+      "temp": "1.46"
+    },
+    {
+      "name": "Lobith",
+      "temp": "3.11"
+    },
+    {
+      "name": "Lochem",
+      "temp": "2.46"
+    },
+    {
+      "name": "Lopik",
+      "temp": "1.67"
+    },
+    {
+      "name": "Loppersum",
+      "temp": "3.06"
+    },
+    {
+      "name": "Losser",
+      "temp": "0.87"
+    },
+    {
+      "name": "Maarssen",
+      "temp": "0.86"
+    },
+    {
+      "name": "Maasbracht",
+      "temp": "0.96"
+    },
+    {
+      "name": "Maasdam",
+      "temp": "2.44"
+    },
+    {
+      "name": "Maassluis",
+      "temp": "3.34"
+    },
+    {
+      "name": "Maastricht",
+      "temp": "2.3"
+    },
+    {
+      "name": "Made",
+      "temp": "1.08"
+    },
+    {
+      "name": "Malden",
+      "temp": "0.77"
+    },
+    {
+      "name": "Marum",
+      "temp": "2.39"
+    },
+    {
+      "name": "Maurik",
+      "temp": "0.61"
+    },
+    {
+      "name": "Meerkerk",
+      "temp": "1.48"
+    },
+    {
+      "name": "Meerssen",
+      "temp": "2.83"
+    },
+    {
+      "name": "Menaam",
+      "temp": "2.78"
+    },
+    {
+      "name": "Meppel",
+      "temp": "1.82"
+    },
+    {
+      "name": "Middelburg",
+      "temp": "3.63"
+    },
+    {
+      "name": "Middelharnis",
+      "temp": "3.24"
+    },
+    {
+      "name": "Middenbeemster",
+      "temp": "3.54"
+    },
+    {
+      "name": "Mijdrecht",
+      "temp": "3.17"
+    },
+    {
+      "name": "Mill",
+      "temp": "0.95"
+    },
+    {
+      "name": "Millingen aan de Rijn",
+      "temp": "3.54"
+    },
+    {
+      "name": "Monnickendam",
+      "temp": "1.67"
+    },
+    {
+      "name": "Montfoort",
+      "temp": "2.78"
+    },
+    {
+      "name": "Mook",
+      "temp": "1.08"
+    },
+    {
+      "name": "Muiden",
+      "temp": "3.6"
+    },
+    {
+      "name": "Muntendam",
+      "temp": "1.5"
+    },
+    {
+      "name": "Naaldwijk",
+      "temp": "3.49"
+    },
+    {
+      "name": "Neerijnen",
+      "temp": "2.35"
+    },
+    {
+      "name": "Nieuw-Loosdrecht",
+      "temp": "2.72"
+    },
+    {
+      "name": "Nieuwegein",
+      "temp": "3.17"
+    },
+    {
+      "name": "Nieuwerkerk aan den IJssel",
+      "temp": "2.78"
+    },
+    {
+      "name": "Nieuwveen",
+      "temp": "3.22"
+    },
+    {
+      "name": "Nijverdal",
+      "temp": "1.11"
+    },
+    {
+      "name": "Noordwijk",
+      "temp": "0.76"
+    },
+    {
+      "name": "Nuenen",
+      "temp": "3.24"
+    },
+    {
+      "name": "Numansdorp",
+      "temp": "2.83"
+    },
+    {
+      "name": "Nuth",
+      "temp": "0.56"
+    },
+    {
+      "name": "Odijk",
+      "temp": "2.94"
+    },
+    {
+      "name": "Oirschot",
+      "temp": "1.3"
+    },
+    {
+      "name": "Oisterwijk",
+      "temp": "1.96"
+    },
+    {
+      "name": "Oldebroek",
+      "temp": "3.23"
+    },
+    {
+      "name": "Oost-Vlieland",
+      "temp": "3.27"
+    },
+    {
+      "name": "Oostburg",
+      "temp": "3.6"
+    },
+    {
+      "name": "Oosterbeek",
+      "temp": "1.61"
+    },
+    {
+      "name": "Oosterwolde",
+      "temp": "1.11"
+    },
+    {
+      "name": "Oosthuizen",
+      "temp": "3.26"
+    },
+    {
+      "name": "Oostzaan",
+      "temp": "3.37"
+    },
+    {
+      "name": "Opheusden",
+      "temp": "2.28"
+    },
+    {
+      "name": "Opmeer",
+      "temp": "3.41"
+    },
+    {
+      "name": "Oud-Beijerland",
+      "temp": "2.89"
+    },
+    {
+      "name": "Oude Pekela",
+      "temp": "0.94"
+    },
+    {
+      "name": "Oudenbosch",
+      "temp": "2.68"
+    },
+    {
+      "name": "Ouderkerk aan de Amstel",
+      "temp": "3.32"
+    },
+    {
+      "name": "Ouderkerk aan den IJssel",
+      "temp": "2.69"
+    },
+    {
+      "name": "Oudewater",
+      "temp": "2.63"
+    },
+    {
+      "name": "Overveen",
+      "temp": "1.11"
+    },
+    {
+      "name": "Panningen",
+      "temp": "3.1"
+    },
+    {
+      "name": "Papendrecht",
+      "temp": "3.26"
+    },
+    {
+      "name": "Piershil",
+      "temp": "3.2"
+    },
+    {
+      "name": "Pijnacker",
+      "temp": "2.84"
+    },
+    {
+      "name": "Poortugaal",
+      "temp": "1.02"
+    },
+    {
+      "name": "Province of Groningen",
+      "temp": "2.78"
+    },
+    {
+      "name": "Provincie Utrecht",
+      "temp": "2.39"
+    },
+    {
+      "name": "Provincie Zeeland",
+      "temp": "3.71"
+    },
+    {
+      "name": "Purmerend",
+      "temp": "3.45"
+    },
+    {
+      "name": "Raalte",
+      "temp": "2.06"
+    },
+    {
+      "name": "Raamsdonksveer",
+      "temp": "2.09"
+    },
+    {
+      "name": "Renswoude",
+      "temp": "2.78"
+    },
+    {
+      "name": "Reusel",
+      "temp": "1.11"
+    },
+    {
+      "name": "Reuver",
+      "temp": "1.26"
+    },
+    {
+      "name": "Ridderkerk",
+      "temp": "2.19"
+    },
+    {
+      "name": "Rijen",
+      "temp": "2.43"
+    },
+    {
+      "name": "Rijssen",
+      "temp": "3.25"
+    },
+    {
+      "name": "Rijswijk",
+      "temp": "1.28"
+    },
+    {
+      "name": "Rockanje",
+      "temp": "3.87"
+    },
+    {
+      "name": "Roden",
+      "temp": "1.09"
+    },
+    {
+      "name": "Roelofarendsveen",
+      "temp": "3.22"
+    },
+    {
+      "name": "Roosendaal",
+      "temp": "2.55"
+    },
+    {
+      "name": "Rotterdam",
+      "temp": "2.56"
+    },
+    {
+      "name": "Rozendaal",
+      "temp": "3.12"
+    },
+    {
+      "name": "Rucphen",
+      "temp": "1.49"
+    },
+    {
+      "name": "Sassenheim",
+      "temp": "2.54"
+    },
+    {
+      "name": "Schagen",
+      "temp": "1.85"
+    },
+    {
+      "name": "Scherpenzeel",
+      "temp": "3.84"
+    },
+    {
+      "name": "Schiermonnikoog",
+      "temp": "2.53"
+    },
+    {
+      "name": "Schijndel",
+      "temp": "1.23"
+    },
+    {
+      "name": "Schinnen",
+      "temp": "0.52"
+    },
+    {
+      "name": "Schinveld",
+      "temp": "0.57"
+    },
+    {
+      "name": "Schipluiden",
+      "temp": "2.36"
+    },
+    {
+      "name": "Schoonhoven",
+      "temp": "3.16"
+    },
+    {
+      "name": "Simpelveld",
+      "temp": "2.85"
+    },
+    {
+      "name": "Sint Annaparochie",
+      "temp": "0.46"
+    },
+    {
+      "name": "Sint Anthonis",
+      "temp": "1.11"
+    },
+    {
+      "name": "Sint Odiliënberg",
+      "temp": "1.83"
+    },
+    {
+      "name": "Sint-Michielsgestel",
+      "temp": "1.08"
+    },
+    {
+      "name": "Sittard",
+      "temp": "0.68"
+    },
+    {
+      "name": "Slochteren",
+      "temp": "2.74"
+    },
+    {
+      "name": "Sneek",
+      "temp": "1.19"
+    },
+    {
+      "name": "Soest",
+      "temp": "1.08"
+    },
+    {
+      "name": "Son en Breugel",
+      "temp": "3"
+    },
+    {
+      "name": "Spijkenisse",
+      "temp": "3.1"
+    },
+    {
+      "name": "Staphorst",
+      "temp": "1.84"
+    },
+    {
+      "name": "Steenbergen",
+      "temp": "2.91"
+    },
+    {
+      "name": "Steenwijk",
+      "temp": "0.75"
+    },
+    {
+      "name": "Stein",
+      "temp": "1.53"
+    },
+    {
+      "name": "Stiens",
+      "temp": "2.7"
+    },
+    {
+      "name": "Stolwijk",
+      "temp": "2.58"
+    },
+    {
+      "name": "Stompetoren",
+      "temp": "3.28"
+    },
+    {
+      "name": "Strijen",
+      "temp": "2.66"
+    },
+    {
+      "name": "Ten Boer",
+      "temp": "0.98"
+    },
+    {
+      "name": "The Hague",
+      "temp": "3.16"
+    },
+    {
+      "name": "Tholen",
+      "temp": "2.85"
+    },
+    {
+      "name": "Twello",
+      "temp": "1.75"
+    },
+    {
+      "name": "Uitgeest",
+      "temp": "3.37"
+    },
+    {
+      "name": "Uithoorn",
+      "temp": "2.91"
+    },
+    {
+      "name": "Uithuizen",
+      "temp": "3.12"
+    },
+    {
+      "name": "Urk",
+      "temp": "0.88"
+    },
+    {
+      "name": "Vaals",
+      "temp": "0.31"
+    },
+    {
+      "name": "Valkenburg",
+      "temp": "0.55"
+    },
+    {
+      "name": "Valkenswaard",
+      "temp": "0.9"
+    },
+    {
+      "name": "Veendam",
+      "temp": "1.48"
+    },
+    {
+      "name": "Veldhoven",
+      "temp": "0.94"
+    },
+    {
+      "name": "Vianen",
+      "temp": "2.57"
+    },
+    {
+      "name": "Vlaardingen",
+      "temp": "3.15"
+    },
+    {
+      "name": "Vlijmen",
+      "temp": "2.03"
+    },
+    {
+      "name": "Voerendaal",
+      "temp": "0.49"
+    },
+    {
+      "name": "Volendam",
+      "temp": "3.81"
+    },
+    {
+      "name": "Vries",
+      "temp": "1.11"
+    },
+    {
+      "name": "Vriezenveen",
+      "temp": "0.75"
+    },
+    {
+      "name": "Waalre",
+      "temp": "0.92"
+    },
+    {
+      "name": "Weert",
+      "temp": "3.27"
+    },
+    {
+      "name": "Weesp",
+      "temp": "0.76"
+    },
+    {
+      "name": "West-Terschelling",
+      "temp": "1.3"
+    },
+    {
+      "name": "Westervoort",
+      "temp": "3.25"
+    },
+    {
+      "name": "Wijhe",
+      "temp": "2.95"
+    },
+    {
+      "name": "Wijk bij Duurstede",
+      "temp": "2.78"
+    },
+    {
+      "name": "Winschoten",
+      "temp": "1.62"
+    },
+    {
+      "name": "Winsum",
+      "temp": "0.74"
+    },
+    {
+      "name": "Winterswijk",
+      "temp": "3.46"
+    },
+    {
+      "name": "Wognum",
+      "temp": "1.85"
+    },
+    {
+      "name": "Wolvega",
+      "temp": "3.44"
+    },
+    {
+      "name": "Wommels",
+      "temp": "2.81"
+    },
+    {
+      "name": "Wormer",
+      "temp": "2.78"
+    },
+    {
+      "name": "Woudenberg",
+      "temp": "0.75"
+    },
+    {
+      "name": "Woudrichem",
+      "temp": "3.35"
+    },
+    {
+      "name": "Zaandam",
+      "temp": "3.06"
+    },
+    {
+      "name": "Zandvoort",
+      "temp": "2.19"
+    },
+    {
+      "name": "Zeist",
+      "temp": "2.95"
+    },
+    {
+      "name": "Zevenbergen",
+      "temp": "2.96"
+    },
+    {
+      "name": "Zierikzee",
+      "temp": "3.79"
+    },
+    {
+      "name": "Zoetermeer",
+      "temp": "2.61"
+    },
+    {
+      "name": "Zoeterwoude",
+      "temp": "3.12"
+    },
+    {
+      "name": "Zuid-Scharwoude",
+      "temp": "1.24"
+    },
+    {
+      "name": "Zuidhorn",
+      "temp": "1.4"
+    },
+    {
+      "name": "Zuidwolde",
+      "temp": "3.45"
+    },
+    {
+      "name": "Zutphen",
+      "temp": "2.03"
+    },
+    {
+      "name": "Zwijndrecht",
+      "temp": "2.34"
+    }
+  ]
+}
